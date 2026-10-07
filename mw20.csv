@@ -60275,3 +60275,687 @@ Semi-Detached,8,2026,Uxbridge,0,,,,1,2,,,,
 Semi-Detached,8,2026,Vaughan,14,14150000,1010714,1022500,26,43,0.95,34,54%,3.07
 Semi-Detached,8,2026,Whitby,7,5237500,748214,830000,8,12,1.02,25,88%,1.71
 Semi-Detached,8,2026,York Region,51,48182999,944765,935000,115,174,0.98,30,44%,3.41
+Detached,9,2026,All TRREB Areas,2399,3099545422,1292016,1100000,8045,12321,0.97,31,30%,5.14
+Detached,9,2026,Halton Region,269,384209865,1428289,1247500,973,1411,0.96,31,28%,5.25
+Detached,9,2026,Burlington,84,114559471,1363803,1219950,252,325,0.96,26,33%,3.87
+Detached,9,2026,Halton Hills,37,41968800,1134292,965000,138,215,0.95,27,27%,5.81
+Detached,9,2026,Milton,63,79745786,1265806,1100000,189,275,0.95,35,33%,4.37
+Detached,9,2026,Oakville,85,147935808,1740421,1546000,394,596,0.95,34,22%,7.01
+Detached,9,2026,Peel Region,480,543723937,1132758,1035000,1375,2293,0.96,32,35%,4.78
+Detached,9,2026,Brampton,234,234377505,1001613,930000,617,1008,0.97,31,38%,4.31
+Detached,9,2026,Caledon,50,57394890,1147898,1022500,169,366,0.95,41,30%,7.32
+Detached,9,2026,Mississauga,196,251951542,1285467,1219000,589,919,0.96,30,33%,4.69
+Detached,9,2026,City of Toronto,640,1000298438,1562966,1200000,2146,2880,0.98,27,30%,4.5
+Detached,9,2026,Toronto West,211,299318836,1418573,1177653,689,898,0.99,25,31%,4.26
+Detached,9,2026,Toronto Central,180,423300293,2351668,1777500,775,1157,0.97,28,23%,6.43
+Detached,9,2026,Toronto East,249,277679309,1115178,945000,682,825,1,28,37%,3.31
+Detached,9,2026,York Region,479,691917697,1444505,1325000,1790,3000,0.97,36,27%,6.26
+Detached,9,2026,Aurora,33,45398500,1375712,1255000,117,175,0.98,37,28%,5.3
+Detached,9,2026,East Gwillimbury,25,29556688,1182268,1150000,113,196,0.96,35,22%,7.84
+Detached,9,2026,Georgina,43,39146600,910386,795000,216,391,0.94,48,20%,9.09
+Detached,9,2026,King,16,34100000,2131250,1812500,96,203,0.94,46,17%,12.69
+Detached,9,2026,Markham,108,165687064,1534139,1381500,292,462,0.98,31,37%,4.28
+Detached,9,2026,Newmarket,36,37984500,1055125,1046500,154,213,0.96,31,23%,5.92
+Detached,9,2026,Richmond Hill,84,132774052,1580643,1438500,321,551,0.97,31,26%,6.56
+Detached,9,2026,Stouffville,26,34554700,1329027,1190000,115,215,0.96,39,23%,8.27
+Detached,9,2026,Vaughan,108,172715593,1599218,1442500,366,594,0.97,38,30%,5.5
+Detached,9,2026,Durham Region,367,339922158,926218,860000,1258,1775,0.98,29,29%,4.84
+Detached,9,2026,Ajax,51,46894705,919504,835000,156,207,0.99,22,33%,4.06
+Detached,9,2026,Brock,7,4385800,626543,600000,53,104,0.98,23,13%,14.86
+Detached,9,2026,Clarington,76,66283824,872156,837500,256,314,0.99,22,30%,4.13
+Detached,9,2026,Oshawa,89,66602799,748346,690000,304,434,0.98,33,29%,4.88
+Detached,9,2026,Pickering,50,54034910,1080698,1035000,141,217,0.98,31,35%,4.34
+Detached,9,2026,Scugog,22,22332721,1015124,980665,76,133,0.96,62,29%,6.05
+Detached,9,2026,Uxbridge,15,22651400,1510093,1169000,54,88,0.93,40,28%,5.87
+Detached,9,2026,Whitby,57,56735999,995368,945000,218,278,0.98,22,26%,4.88
+Detached,9,2026,Dufferin County,21,17445400,830733,820000,43,86,0.97,29,49%,4.1
+Detached,9,2026,Orangeville,21,17445400,830733,820000,43,86,0.97,29,49%,4.1
+Detached,9,2026,Simcoe County,143,122027928,853342,805000,460,876,0.96,42,31%,6.13
+Detached,9,2026,Adjala-Tosorontio,8,7431500,928938,912000,49,101,0.97,36,16%,12.62
+Detached,9,2026,Bradford,33,32158127,974489,930000,78,150,0.98,37,42%,4.55
+Detached,9,2026,Essa,18,14191989,788444,700000,68,119,0.95,42,26%,6.61
+Detached,9,2026,Innisfil,45,34966027,777023,730000,174,328,0.97,44,26%,7.29
+Detached,9,2026,New Tecumseth,39,33280285,853341,810000,91,178,0.95,44,43%,4.56
+Detached,9,2026,Toronto W01,11,19366000,1760545,1700000,39,36,1.06,11,28%,3.27
+Detached,9,2026,Toronto W02,25,44279501,1771180,1651975,62,53,1.04,8,40%,2.12
+Detached,9,2026,Toronto W03,19,15794000,831263,800000,53,74,0.98,42,36%,3.89
+Detached,9,2026,Toronto W04,18,17911800,995100,997000,77,123,1.01,38,23%,6.83
+Detached,9,2026,Toronto W05,15,14627661,975177,950000,58,101,0.97,40,26%,6.73
+Detached,9,2026,Toronto W06,25,31996421,1279857,1200000,84,94,0.98,20,30%,3.76
+Detached,9,2026,Toronto W07,17,32033500,1884324,1718000,54,50,0.99,13,31%,2.94
+Detached,9,2026,Toronto W08,49,93174953,1901530,1282000,159,200,0.96,23,31%,4.08
+Detached,9,2026,Toronto W09,11,12285000,1116818,1015000,53,75,0.98,23,21%,6.82
+Detached,9,2026,Toronto W10,21,17850000,850000,840000,50,92,0.96,41,42%,4.38
+Detached,9,2026,Toronto C01,5,9940000,1988000,2100000,24,35,1.01,9,21%,7
+Detached,9,2026,Toronto C02,8,18245500,2280688,2482500,31,41,0.96,25,26%,5.12
+Detached,9,2026,Toronto C03,21,52961750,2521988,1755000,91,123,0.96,15,23%,5.86
+Detached,9,2026,Toronto C04,37,98082886,2650889,2335000,145,181,0.97,23,26%,4.89
+Detached,9,2026,Toronto C06,5,6024000,1204800,1160000,24,45,0.96,26,21%,9
+Detached,9,2026,Toronto C07,19,32511680,1711141,1490000,79,137,1,37,24%,7.21
+Detached,9,2026,Toronto C08,0,,,,3,3,,,,
+Detached,9,2026,Toronto C09,6,43110000,7185000,5650000,38,51,0.93,40,16%,8.5
+Detached,9,2026,Toronto C10,10,18843500,1884350,2000000,33,27,1.01,23,30%,2.7
+Detached,9,2026,Toronto C11,5,8905000,1781000,1800000,31,31,0.96,11,16%,6.2
+Detached,9,2026,Toronto C12,10,38358000,3835800,3835000,74,150,0.95,50,14%,15
+Detached,9,2026,Toronto C13,17,28642500,1684853,1510000,65,97,0.98,24,26%,5.71
+Detached,9,2026,Toronto C14,16,35087688,2192981,1670000,60,117,0.96,42,27%,7.31
+Detached,9,2026,Toronto C15,21,32587789,1551799,1280000,77,119,0.95,30,27%,5.67
+Detached,9,2026,Toronto E01,13,19581000,1506231,1285000,33,21,1.14,8,39%,1.62
+Detached,9,2026,Toronto E02,13,26598500,2046038,2061000,50,39,1.04,10,26%,3
+Detached,9,2026,Toronto E03,48,58671124,1222315,1125000,98,98,0.99,24,49%,2.04
+Detached,9,2026,Toronto E04,35,30924786,883565,847500,102,116,0.99,23,34%,3.31
+Detached,9,2026,Toronto E05,14,14799299,1057093,1071500,53,64,0.99,32,26%,4.57
+Detached,9,2026,Toronto E06,17,17885900,1052112,815000,60,77,0.98,45,28%,4.53
+Detached,9,2026,Toronto E07,16,15606900,975431,920000,38,58,1.02,22,42%,3.62
+Detached,9,2026,Toronto E08,24,25605201,1066883,857500,67,110,0.97,37,36%,4.58
+Detached,9,2026,Toronto E09,25,21927768,877111,866000,66,106,1.01,36,38%,4.24
+Detached,9,2026,Toronto E10,34,36025981,1059588,982500,90,103,0.96,30,38%,3.03
+Detached,9,2026,Toronto E11,10,10052850,1005285,967500,25,33,0.99,42,40%,3.3
+Semi-Detached,9,2026,All TRREB Areas,459,465977561,1015202,900000,1144,1380,1.02,25,40%,3.01
+Semi-Detached,9,2026,Halton Region,21,19731100,939576,915000,69,88,0.98,20,30%,4.19
+Semi-Detached,9,2026,Burlington,7,6249000,892714,905000,16,21,1,14,44%,3
+Semi-Detached,9,2026,Halton Hills,1,827500,827500,827500,7,7,0.98,9,14%,7
+Semi-Detached,9,2026,Milton,7,6350100,907157,912000,27,35,0.97,23,26%,5
+Semi-Detached,9,2026,Oakville,6,6304500,1050750,987250,19,25,0.97,24,32%,4.17
+Semi-Detached,9,2026,Peel Region,136,112838499,829695,830000,302,427,0.99,29,45%,3.14
+Semi-Detached,9,2026,Brampton,60,46693399,778223,783500,147,206,0.98,28,41%,3.43
+Semi-Detached,9,2026,Caledon,4,3493500,873375,874250,13,19,0.97,28,31%,4.75
+Semi-Detached,9,2026,Mississauga,72,62651600,870161,865000,142,202,0.99,30,51%,2.81
+Semi-Detached,9,2026,City of Toronto,211,254863538,1207884,1091000,539,563,1.04,21,39%,2.67
+Semi-Detached,9,2026,Toronto West,71,70076566,986994,895000,156,190,1.02,26,46%,2.68
+Semi-Detached,9,2026,Toronto Central,68,103681132,1524723,1374500,203,195,1.02,17,33%,2.87
+Semi-Detached,9,2026,Toronto East,72,81105840,1126470,1052500,180,178,1.08,21,40%,2.47
+Semi-Detached,9,2026,York Region,57,55321188,970547,921000,139,177,1,32,41%,3.11
+Semi-Detached,9,2026,Aurora,3,2590000,863333,855000,6,13,0.97,30,50%,4.33
+Semi-Detached,9,2026,East Gwillimbury,1,915000,915000,915000,6,10,1.14,17,17%,10
+Semi-Detached,9,2026,Georgina,1,750000,750000,750000,3,7,0.98,61,33%,7
+Semi-Detached,9,2026,King,0,,,,0,0,,,,
+Semi-Detached,9,2026,Markham,18,18347800,1019322,999000,39,42,1.01,30,46%,2.33
+Semi-Detached,9,2026,Newmarket,8,6670000,833750,835000,21,29,0.98,52,38%,3.62
+Semi-Detached,9,2026,Richmond Hill,8,8359000,1044875,1000000,21,25,0.99,22,38%,3.12
+Semi-Detached,9,2026,Stouffville,5,4368888,873778,880000,7,9,1.02,25,71%,1.8
+Semi-Detached,9,2026,Vaughan,13,13320500,1024654,1000000,36,42,0.98,30,36%,3.23
+Semi-Detached,9,2026,Durham Region,27,18301000,677815,662000,72,94,1.01,21,38%,3.48
+Semi-Detached,9,2026,Ajax,4,2955000,738750,740000,8,10,1.04,24,50%,2.5
+Semi-Detached,9,2026,Brock,0,,,,0,0,,,,
+Semi-Detached,9,2026,Clarington,3,1984000,661333,662000,6,6,1.01,17,50%,2
+Semi-Detached,9,2026,Oshawa,11,6496500,590591,590000,39,47,1,29,28%,4.27
+Semi-Detached,9,2026,Pickering,6,4507000,751167,737500,10,14,1.03,12,60%,2.33
+Semi-Detached,9,2026,Scugog,0,,,,2,2,,,,
+Semi-Detached,9,2026,Uxbridge,0,,,,1,3,,,,
+Semi-Detached,9,2026,Whitby,3,2358500,786167,800000,6,12,0.98,10,50%,4
+Semi-Detached,9,2026,Dufferin County,3,2027236,675745,665000,10,14,0.97,24,30%,4.67
+Semi-Detached,9,2026,Orangeville,3,2027236,675745,665000,10,14,0.97,24,30%,4.67
+Semi-Detached,9,2026,Simcoe County,4,2895000,723750,702500,13,17,0.97,39,31%,4.25
+Semi-Detached,9,2026,Adjala-Tosorontio,0,,,,0,0,,,,
+Semi-Detached,9,2026,Bradford,1,900000,900000,900000,6,7,0.96,34,17%,7
+Semi-Detached,9,2026,Essa,0,,,,0,0,,,,
+Semi-Detached,9,2026,Innisfil,0,,,,0,0,,,,
+Semi-Detached,9,2026,New Tecumseth,3,1995000,665000,655000,7,10,0.97,41,43%,3.33
+Semi-Detached,9,2026,Toronto W01,5,7867000,1573400,1628000,14,13,1.11,13,36%,2.6
+Semi-Detached,9,2026,Toronto W02,14,17009750,1214982,1155500,30,31,1.03,24,47%,2.21
+Semi-Detached,9,2026,Toronto W03,18,17032816,946268,915000,35,37,1.02,17,51%,2.06
+Semi-Detached,9,2026,Toronto W04,4,3025000,756250,707500,11,10,0.97,31,36%,2.5
+Semi-Detached,9,2026,Toronto W05,24,20256000,844000,825000,50,77,0.99,34,48%,3.21
+Semi-Detached,9,2026,Toronto W06,1,830000,830000,830000,9,15,0.95,39,11%,15
+Semi-Detached,9,2026,Toronto W07,1,695000,695000,695000,1,0,0.97,4,100%,
+Semi-Detached,9,2026,Toronto W08,1,918000,918000,918000,2,1,0.96,18,50%,1
+Semi-Detached,9,2026,Toronto W09,0,,,,1,2,,,,
+Semi-Detached,9,2026,Toronto W10,3,2443000,814333,779000,3,4,1,34,100%,1.33
+Semi-Detached,9,2026,Toronto C01,15,25552227,1703482,1379000,55,54,1.02,24,27%,3.6
+Semi-Detached,9,2026,Toronto C02,10,18530000,1853000,1772500,36,40,1.01,14,28%,4
+Semi-Detached,9,2026,Toronto C03,7,7685018,1097860,1065000,18,15,1.04,16,39%,2.14
+Semi-Detached,9,2026,Toronto C04,3,4900000,1633333,1530000,7,6,1.02,4,43%,2
+Semi-Detached,9,2026,Toronto C06,1,1335000,1335000,1335000,1,2,0.99,7,100%,2
+Semi-Detached,9,2026,Toronto C07,0,,,,4,7,,,,
+Semi-Detached,9,2026,Toronto C08,4,5272819,1318205,1297910,8,7,0.99,31,50%,1.75
+Semi-Detached,9,2026,Toronto C09,1,2635000,2635000,2635000,10,8,0.94,15,10%,8
+Semi-Detached,9,2026,Toronto C10,13,19845688,1526591,1350000,18,6,1.05,9,72%,0.46
+Semi-Detached,9,2026,Toronto C11,7,11239000,1605571,1503000,13,8,1.05,6,54%,1.14
+Semi-Detached,9,2026,Toronto C12,1,860000,860000,860000,2,1,1.01,7,50%,1
+Semi-Detached,9,2026,Toronto C13,0,,,,12,15,,,,
+Semi-Detached,9,2026,Toronto C14,0,,,,0,0,,,,
+Semi-Detached,9,2026,Toronto C15,6,5826380,971063,998440,19,26,1,34,32%,4.33
+Semi-Detached,9,2026,Toronto E01,28,36033555,1286913,1257500,57,46,1.13,12,49%,1.64
+Semi-Detached,9,2026,Toronto E02,18,20757105,1153173,1150050,50,38,1.1,10,36%,2.11
+Semi-Detached,9,2026,Toronto E03,9,9761000,1084556,1015000,30,26,1.04,28,30%,2.89
+Semi-Detached,9,2026,Toronto E04,3,2285000,761667,730000,13,20,1,46,23%,6.67
+Semi-Detached,9,2026,Toronto E05,1,785000,785000,785000,3,3,0.98,12,33%,3
+Semi-Detached,9,2026,Toronto E06,3,3015248,1005083,885000,8,6,0.97,13,38%,2
+Semi-Detached,9,2026,Toronto E07,5,4239932,847986,878000,4,4,1.03,14,125%,0.8
+Semi-Detached,9,2026,Toronto E08,0,,,,2,2,,,,
+Semi-Detached,9,2026,Toronto E09,0,,,,2,5,,,,
+Semi-Detached,9,2026,Toronto E10,1,940000,940000,940000,3,5,1.05,3,33%,5
+Semi-Detached,9,2026,Toronto E11,4,3289000,822250,836500,8,23,0.98,116,50%,5.75
+Att/Row/Townhouse,9,2026,All TRREB Areas,448,406716131,907849,837000,1351,1854,1,30,33%,4.14
+Att/Row/Townhouse,9,2026,Halton Region,80,73991740,924897,854500,223,319,0.98,27,36%,3.99
+Att/Row/Townhouse,9,2026,Burlington,17,13991698,823041,840000,39,48,0.98,27,44%,2.82
+Att/Row/Townhouse,9,2026,Halton Hills,3,2559500,853167,850000,13,25,0.97,30,23%,8.33
+Att/Row/Townhouse,9,2026,Milton,33,25922900,785542,789000,68,92,0.98,28,49%,2.79
+Att/Row/Townhouse,9,2026,Oakville,27,31517642,1167320,1069000,103,154,0.98,25,26%,5.7
+Att/Row/Townhouse,9,2026,Peel Region,62,48981680,790027,752500,202,308,0.98,32,31%,4.97
+Att/Row/Townhouse,9,2026,Brampton,43,31729700,737900,725000,127,200,0.98,29,34%,4.65
+Att/Row/Townhouse,9,2026,Caledon,6,4511500,751917,781250,25,40,0.97,49,24%,6.67
+Att/Row/Townhouse,9,2026,Mississauga,13,12740480,980037,898000,50,68,0.98,33,26%,5.23
+Att/Row/Townhouse,9,2026,City of Toronto,92,101625878,1104629,1067500,246,267,1.02,23,37%,2.9
+Att/Row/Townhouse,9,2026,Toronto West,26,26945600,1036369,1077500,62,72,1,22,42%,2.77
+Att/Row/Townhouse,9,2026,Toronto Central,34,46592900,1370379,1181500,123,120,1.04,15,28%,3.53
+Att/Row/Townhouse,9,2026,Toronto East,32,28087378,877731,769250,61,75,1.02,32,52%,2.34
+Att/Row/Townhouse,9,2026,York Region,115,111301356,967838,930000,386,541,1,32,30%,4.7
+Att/Row/Townhouse,9,2026,Aurora,7,6380888,911555,898888,24,35,0.98,30,29%,5
+Att/Row/Townhouse,9,2026,East Gwillimbury,6,4998000,833000,882500,13,14,1.07,34,46%,2.33
+Att/Row/Townhouse,9,2026,Georgina,2,1350000,675000,675000,5,14,0.97,35,40%,7
+Att/Row/Townhouse,9,2026,King,2,2390000,1195000,1195000,10,12,0.97,39,20%,6
+Att/Row/Townhouse,9,2026,Markham,30,29338780,977959,918490,104,147,1,32,29%,4.9
+Att/Row/Townhouse,9,2026,Newmarket,9,7010000,778889,746000,26,42,0.98,26,35%,4.67
+Att/Row/Townhouse,9,2026,Richmond Hill,31,33111688,1068119,1020000,89,116,1.01,34,35%,3.74
+Att/Row/Townhouse,9,2026,Stouffville,7,5872000,838857,806000,27,37,1.01,21,26%,5.29
+Att/Row/Townhouse,9,2026,Vaughan,21,20850000,992857,965000,88,124,0.99,32,24%,5.9
+Att/Row/Townhouse,9,2026,Durham Region,72,53272017,739889,728750,238,315,1,32,30%,4.38
+Att/Row/Townhouse,9,2026,Ajax,11,8048000,731636,750000,33,45,1.01,32,33%,4.09
+Att/Row/Townhouse,9,2026,Brock,0,,,,1,2,,,,
+Att/Row/Townhouse,9,2026,Clarington,15,9703000,646867,625000,49,58,1.03,19,31%,3.87
+Att/Row/Townhouse,9,2026,Oshawa,6,3937500,656250,668750,32,54,0.97,39,19%,9
+Att/Row/Townhouse,9,2026,Pickering,15,11539517,769301,755000,54,68,0.98,45,28%,4.53
+Att/Row/Townhouse,9,2026,Scugog,1,727500,727500,727500,1,2,0.99,27,100%,2
+Att/Row/Townhouse,9,2026,Uxbridge,2,1990000,995000,995000,8,10,0.98,76,25%,5
+Att/Row/Townhouse,9,2026,Whitby,22,17326500,787568,782500,60,76,1.01,26,37%,3.45
+Att/Row/Townhouse,9,2026,Dufferin County,6,3989000,664833,670000,12,22,0.97,28,50%,3.67
+Att/Row/Townhouse,9,2026,Orangeville,6,3989000,664833,670000,12,22,0.97,28,50%,3.67
+Att/Row/Townhouse,9,2026,Simcoe County,21,13554460,645450,595000,44,82,0.97,48,48%,3.9
+Att/Row/Townhouse,9,2026,Adjala-Tosorontio,0,,,,0,2,,,,
+Att/Row/Townhouse,9,2026,Bradford,5,3670000,734000,717500,7,9,0.98,29,71%,1.8
+Att/Row/Townhouse,9,2026,Essa,4,2191000,547750,563000,7,11,0.98,49,57%,2.75
+Att/Row/Townhouse,9,2026,Innisfil,10,6403460,640346,553000,18,37,0.97,48,56%,3.7
+Att/Row/Townhouse,9,2026,New Tecumseth,2,1290000,645000,645000,12,23,0.95,94,17%,11.5
+Att/Row/Townhouse,9,2026,Toronto W01,1,1500000,1500000,1500000,5,2,1.17,1,20%,2
+Att/Row/Townhouse,9,2026,Toronto W02,5,6184500,1236900,1205000,13,10,1.04,14,38%,2
+Att/Row/Townhouse,9,2026,Toronto W03,0,,,,4,6,,,,
+Att/Row/Townhouse,9,2026,Toronto W04,4,2966500,741625,732750,1,4,0.95,52,400%,1
+Att/Row/Townhouse,9,2026,Toronto W05,6,5054600,842433,808500,16,24,1,21,38%,4
+Att/Row/Townhouse,9,2026,Toronto W06,9,9840000,1093333,1120000,7,6,0.98,16,129%,0.67
+Att/Row/Townhouse,9,2026,Toronto W07,0,,,,4,5,,,,
+Att/Row/Townhouse,9,2026,Toronto W08,1,1400000,1400000,1400000,10,8,0.97,14,10%,8
+Att/Row/Townhouse,9,2026,Toronto W09,0,,,,2,2,,,,
+Att/Row/Townhouse,9,2026,Toronto W10,0,,,,0,5,,,,
+Att/Row/Townhouse,9,2026,Toronto C01,17,23093000,1358412,1255000,45,36,1.08,11,38%,2.12
+Att/Row/Townhouse,9,2026,Toronto C02,6,12047000,2007833,2005000,23,20,1.01,19,26%,3.33
+Att/Row/Townhouse,9,2026,Toronto C03,0,,,,1,2,,,,
+Att/Row/Townhouse,9,2026,Toronto C04,0,,,,2,3,,,,
+Att/Row/Townhouse,9,2026,Toronto C06,0,,,,0,0,,,,
+Att/Row/Townhouse,9,2026,Toronto C07,2,2335000,1167500,1167500,5,4,1.17,16,40%,2
+Att/Row/Townhouse,9,2026,Toronto C08,6,5439900,906650,900000,26,25,0.96,28,23%,4.17
+Att/Row/Townhouse,9,2026,Toronto C09,0,,,,1,1,,,,
+Att/Row/Townhouse,9,2026,Toronto C10,1,1150000,1150000,1150000,3,3,0.94,7,33%,3
+Att/Row/Townhouse,9,2026,Toronto C11,0,,,,1,1,,,,
+Att/Row/Townhouse,9,2026,Toronto C12,0,,,,0,5,,,,
+Att/Row/Townhouse,9,2026,Toronto C13,1,1300000,1300000,1300000,12,15,1,6,8%,15
+Att/Row/Townhouse,9,2026,Toronto C14,1,1228000,1228000,1228000,4,5,1.04,7,25%,5
+Att/Row/Townhouse,9,2026,Toronto C15,0,,,,0,0,,,,
+Att/Row/Townhouse,9,2026,Toronto E01,9,9701000,1077889,1250000,19,17,1.06,27,47%,1.89
+Att/Row/Townhouse,9,2026,Toronto E02,2,2615000,1307500,1307500,7,5,0.98,13,29%,2.5
+Att/Row/Townhouse,9,2026,Toronto E03,4,3257888,814472,826444,8,5,0.97,48,50%,1.25
+Att/Row/Townhouse,9,2026,Toronto E04,3,2465000,821667,840000,7,11,1.03,42,43%,3.67
+Att/Row/Townhouse,9,2026,Toronto E05,2,1387990,693995,693995,1,14,1,82,200%,7
+Att/Row/Townhouse,9,2026,Toronto E06,0,,,,0,0,,,,
+Att/Row/Townhouse,9,2026,Toronto E07,2,1527000,763500,763500,3,3,1.04,21,67%,1.5
+Att/Row/Townhouse,9,2026,Toronto E08,3,2110000,703333,710000,3,2,1.01,40,100%,0.67
+Att/Row/Townhouse,9,2026,Toronto E09,1,950000,950000,950000,3,5,0.99,10,33%,5
+Att/Row/Townhouse,9,2026,Toronto E10,2,1472500,736250,736250,2,2,0.99,14,100%,1
+Att/Row/Townhouse,9,2026,Toronto E11,4,2601000,650250,645000,8,11,0.99,15,50%,2.75
+Condo Townhouse,9,2026,All TRREB Areas,355,252255621,710579,659000,1278,2097,0.98,40,28%,5.91
+Condo Townhouse,9,2026,Halton Region,61,46687176,765364,670000,165,246,0.97,42,37%,4.03
+Condo Townhouse,9,2026,Burlington,43,30794677,716155,670000,88,136,0.97,39,49%,3.16
+Condo Townhouse,9,2026,Halton Hills,1,583000,583000,583000,11,11,0.97,17,9%,11
+Condo Townhouse,9,2026,Milton,4,2190999,547750,560000,14,34,0.97,108,29%,8.5
+Condo Townhouse,9,2026,Oakville,13,13118500,1009115,900000,52,65,0.96,35,25%,5
+Condo Townhouse,9,2026,Peel Region,95,62463855,657514,635000,282,545,0.98,39,34%,5.74
+Condo Townhouse,9,2026,Brampton,32,17562000,548813,557500,78,166,0.97,36,41%,5.19
+Condo Townhouse,9,2026,Caledon,2,1139980,569990,569990,3,6,0.99,27,67%,3
+Condo Townhouse,9,2026,Mississauga,61,43761875,717408,686000,201,373,0.99,41,30%,6.11
+Condo Townhouse,9,2026,City of Toronto,97,72716300,749653,685000,470,747,0.98,39,21%,7.7
+Condo Townhouse,9,2026,Toronto West,32,20759500,648734,630000,131,233,0.97,54,24%,7.28
+Condo Townhouse,9,2026,Toronto Central,42,36151000,860738,767500,186,279,0.99,31,23%,6.64
+Condo Townhouse,9,2026,Toronto East,23,15805800,687209,652000,153,235,0.98,32,15%,10.22
+Condo Townhouse,9,2026,York Region,59,46111290,781547,695000,196,317,0.98,44,30%,5.37
+Condo Townhouse,9,2026,Aurora,6,5724000,954000,720000,22,41,0.99,37,27%,6.83
+Condo Townhouse,9,2026,East Gwillimbury,0,,,,0,0,,,,
+Condo Townhouse,9,2026,Georgina,0,,,,2,4,,,,
+Condo Townhouse,9,2026,King,0,,,,0,0,,,,
+Condo Townhouse,9,2026,Markham,23,19077800,829470,735000,69,93,0.98,35,33%,4.04
+Condo Townhouse,9,2026,Newmarket,5,3355000,671000,640000,20,26,0.96,23,25%,5.2
+Condo Townhouse,9,2026,Richmond Hill,15,10762990,717533,700000,34,67,0.99,55,44%,4.47
+Condo Townhouse,9,2026,Stouffville,2,1210000,605000,605000,6,9,0.95,45,33%,4.5
+Condo Townhouse,9,2026,Vaughan,8,5981500,747688,717500,43,77,0.97,64,19%,9.62
+Condo Townhouse,9,2026,Durham Region,37,20757000,561000,565000,148,213,0.98,35,25%,5.76
+Condo Townhouse,9,2026,Ajax,4,2610100,652525,654000,22,29,0.99,32,18%,7.25
+Condo Townhouse,9,2026,Brock,1,555000,555000,555000,1,2,0.93,54,100%,2
+Condo Townhouse,9,2026,Clarington,4,2166000,541500,540500,19,28,0.95,36,21%,7
+Condo Townhouse,9,2026,Oshawa,12,5833300,486108,497500,43,62,0.98,31,28%,5.17
+Condo Townhouse,9,2026,Pickering,13,7889000,606846,625000,53,75,0.99,33,25%,5.77
+Condo Townhouse,9,2026,Scugog,0,,,,1,2,,,,
+Condo Townhouse,9,2026,Uxbridge,0,,,,1,2,,,,
+Condo Townhouse,9,2026,Whitby,3,1703600,567867,548600,8,13,0.95,56,38%,4.33
+Condo Townhouse,9,2026,Dufferin County,1,570000,570000,570000,5,8,0.97,32,20%,8
+Condo Townhouse,9,2026,Orangeville,1,570000,570000,570000,5,8,0.97,32,20%,8
+Condo Townhouse,9,2026,Simcoe County,5,2950000,590000,590000,12,21,0.98,60,42%,4.2
+Condo Townhouse,9,2026,Adjala-Tosorontio,0,,,,0,0,,,,
+Condo Townhouse,9,2026,Bradford,3,1885000,628333,615000,6,7,0.98,32,50%,2.33
+Condo Townhouse,9,2026,Essa,0,,,,0,0,,,,
+Condo Townhouse,9,2026,Innisfil,0,,,,1,3,,,,
+Condo Townhouse,9,2026,New Tecumseth,2,1065000,532500,532500,5,11,0.98,101,40%,5.5
+Condo Townhouse,9,2026,Toronto W01,5,3162500,632500,547500,2,5,0.93,56,250%,1
+Condo Townhouse,9,2026,Toronto W02,4,3218000,804500,845000,11,8,1,21,36%,2
+Condo Townhouse,9,2026,Toronto W03,0,,,,8,12,,,,
+Condo Townhouse,9,2026,Toronto W04,3,1855000,618333,600000,10,24,0.98,60,30%,8
+Condo Townhouse,9,2026,Toronto W05,6,3470000,578333,603500,38,79,0.98,55,16%,13.17
+Condo Townhouse,9,2026,Toronto W06,7,4829000,689857,700000,21,34,0.97,51,33%,4.86
+Condo Townhouse,9,2026,Toronto W07,0,,,,2,1,,,,
+Condo Townhouse,9,2026,Toronto W08,1,850000,850000,850000,29,43,0.94,66,3%,43
+Condo Townhouse,9,2026,Toronto W09,0,,,,4,9,,,,
+Condo Townhouse,9,2026,Toronto W10,6,3375000,562500,567500,6,18,0.96,73,100%,3
+Condo Townhouse,9,2026,Toronto C01,8,7080000,885000,689500,39,46,0.98,21,21%,5.75
+Condo Townhouse,9,2026,Toronto C02,2,2230000,1115000,1115000,13,17,0.99,41,15%,8.5
+Condo Townhouse,9,2026,Toronto C03,0,,,,2,2,,,,
+Condo Townhouse,9,2026,Toronto C04,1,1450000,1450000,1450000,3,6,0.97,15,33%,6
+Condo Townhouse,9,2026,Toronto C06,1,593000,593000,593000,1,5,1.08,37,100%,5
+Condo Townhouse,9,2026,Toronto C07,5,3232000,646400,645000,12,22,1.06,18,42%,4.4
+Condo Townhouse,9,2026,Toronto C08,5,4003000,800600,788000,19,28,1.02,8,26%,5.6
+Condo Townhouse,9,2026,Toronto C09,1,1450000,1450000,1450000,5,5,0.97,4,20%,5
+Condo Townhouse,9,2026,Toronto C10,2,2245000,1122500,1122500,5,6,0.98,19,40%,3
+Condo Townhouse,9,2026,Toronto C11,0,,,,4,7,,,,
+Condo Townhouse,9,2026,Toronto C12,1,814000,814000,814000,8,17,1.09,42,12%,17
+Condo Townhouse,9,2026,Toronto C13,3,2307000,769000,748000,12,25,0.99,32,25%,8.33
+Condo Townhouse,9,2026,Toronto C14,5,5145000,1029000,1050000,19,29,0.94,62,26%,5.8
+Condo Townhouse,9,2026,Toronto C15,8,5602000,700250,682500,44,64,0.95,47,18%,8
+Condo Townhouse,9,2026,Toronto E01,0,,,,13,17,,,,
+Condo Townhouse,9,2026,Toronto E02,4,4344500,1086125,945000,9,10,0.99,22,44%,2.5
+Condo Townhouse,9,2026,Toronto E03,0,,,,4,6,,,,
+Condo Townhouse,9,2026,Toronto E04,2,1465000,732500,732500,18,19,0.97,13,11%,9.5
+Condo Townhouse,9,2026,Toronto E05,5,3233800,646760,652000,20,34,0.96,28,25%,6.8
+Condo Townhouse,9,2026,Toronto E06,1,625000,625000,625000,6,11,0.96,53,17%,11
+Condo Townhouse,9,2026,Toronto E07,2,1294500,647250,647250,6,15,0.97,38,33%,7.5
+Condo Townhouse,9,2026,Toronto E08,2,1240000,620000,620000,16,19,0.96,38,12%,9.5
+Condo Townhouse,9,2026,Toronto E09,2,818000,409000,409000,20,25,0.96,14,10%,12.5
+Condo Townhouse,9,2026,Toronto E10,1,640000,640000,640000,11,18,1.07,10,9%,18
+Condo Townhouse,9,2026,Toronto E11,4,2145000,536250,507500,30,61,1,59,13%,15.25
+Condo Apartment,9,2026,All TRREB Areas,1316,796518087,605257,520000,4523,8226,0.97,42,29%,6.25
+Condo Apartment,9,2026,Halton Region,66,42146652,638586,505000,283,533,0.96,45,23%,8.08
+Condo Apartment,9,2026,Burlington,24,15267155,636131,490000,115,219,0.95,66,21%,9.12
+Condo Apartment,9,2026,Halton Hills,3,1533500,511167,491500,5,10,0.96,29,60%,3.33
+Condo Apartment,9,2026,Milton,10,5064000,506400,482500,39,81,0.99,33,26%,8.1
+Condo Apartment,9,2026,Oakville,29,20281997,699379,537500,124,223,0.96,33,23%,7.69
+Condo Apartment,9,2026,Peel Region,157,75807063,482848,430000,482,1025,0.96,47,33%,6.53
+Condo Apartment,9,2026,Brampton,35,14783615,422389,422000,95,189,0.95,52,37%,5.4
+Condo Apartment,9,2026,Caledon,0,,,,5,5,,,,
+Condo Apartment,9,2026,Mississauga,122,61023448,500192,432500,382,831,0.96,46,32%,6.81
+Condo Apartment,9,2026,City of Toronto,884,565979524,640248,535000,3073,5329,0.97,40,29%,6.03
+Condo Apartment,9,2026,Toronto West,191,107011859,560272,505000,635,1131,0.97,42,30%,5.92
+Condo Apartment,9,2026,Toronto Central,593,405172848,683259,565000,2074,3539,0.97,40,29%,5.97
+Condo Apartment,9,2026,Toronto East,100,53794817,537948,461250,364,659,0.97,36,27%,6.59
+Condo Apartment,9,2026,York Region,167,94227348,564236,525000,560,1086,0.97,47,30%,6.5
+Condo Apartment,9,2026,Aurora,5,3200000,640000,685000,15,28,0.96,47,33%,5.6
+Condo Apartment,9,2026,East Gwillimbury,1,525000,525000,525000,1,2,0.99,156,100%,2
+Condo Apartment,9,2026,Georgina,2,902500,451250,451250,1,5,0.97,36,200%,2.5
+Condo Apartment,9,2026,King,2,1025000,512500,512500,3,22,0.99,20,67%,11
+Condo Apartment,9,2026,Markham,55,31603664,574612,535000,206,354,0.98,40,27%,6.44
+Condo Apartment,9,2026,Newmarket,5,2675601,535120,549000,12,21,1.01,46,42%,4.2
+Condo Apartment,9,2026,Richmond Hill,34,19535183,574564,529250,113,208,0.98,46,30%,6.12
+Condo Apartment,9,2026,Stouffville,1,725000,725000,725000,11,26,0.97,55,9%,26
+Condo Apartment,9,2026,Vaughan,62,34035400,548958,510000,198,420,0.96,53,31%,6.77
+Condo Apartment,9,2026,Durham Region,38,16751500,440829,427500,95,194,0.97,41,40%,5.11
+Condo Apartment,9,2026,Ajax,6,2667500,444583,440000,8,16,0.97,30,75%,2.67
+Condo Apartment,9,2026,Brock,0,,,,0,0,,,,
+Condo Apartment,9,2026,Clarington,9,3890000,432222,430000,22,40,0.97,34,41%,4.44
+Condo Apartment,9,2026,Oshawa,7,2112500,301786,300000,28,60,0.96,63,25%,8.57
+Condo Apartment,9,2026,Pickering,7,3438000,491143,498000,17,35,0.96,48,41%,5
+Condo Apartment,9,2026,Scugog,0,,,,0,0,,,,
+Condo Apartment,9,2026,Uxbridge,1,397000,397000,397000,1,3,0.97,34,100%,3
+Condo Apartment,9,2026,Whitby,8,4246500,530813,522500,19,40,0.99,32,42%,5
+Condo Apartment,9,2026,Dufferin County,2,597000,298500,298500,7,8,0.96,45,29%,4
+Condo Apartment,9,2026,Orangeville,2,597000,298500,298500,7,8,0.96,45,29%,4
+Condo Apartment,9,2026,Simcoe County,2,1009000,504500,504500,23,51,0.97,41,9%,25.5
+Condo Apartment,9,2026,Adjala-Tosorontio,0,,,,0,0,,,,
+Condo Apartment,9,2026,Bradford,0,,,,0,0,,,,
+Condo Apartment,9,2026,Essa,0,,,,0,0,,,,
+Condo Apartment,9,2026,Innisfil,1,499000,499000,499000,18,44,0.97,17,6%,44
+Condo Apartment,9,2026,New Tecumseth,1,510000,510000,510000,5,7,0.97,65,20%,7
+Condo Apartment,9,2026,Toronto W01,12,8923000,743583,712000,60,111,0.96,35,20%,9.25
+Condo Apartment,9,2026,Toronto W02,12,8026900,668908,623500,59,85,1,32,20%,7.08
+Condo Apartment,9,2026,Toronto W03,5,2449199,489840,510000,17,26,0.95,78,29%,5.2
+Condo Apartment,9,2026,Toronto W04,25,10799900,431996,380000,61,124,0.95,43,41%,4.96
+Condo Apartment,9,2026,Toronto W05,16,6415000,400938,447500,52,126,0.96,45,31%,7.88
+Condo Apartment,9,2026,Toronto W06,40,25608990,640225,557500,151,258,0.97,46,26%,6.45
+Condo Apartment,9,2026,Toronto W07,5,2783000,556600,520000,20,30,1,27,25%,6
+Condo Apartment,9,2026,Toronto W08,58,34165570,589062,524000,157,241,0.98,37,37%,4.16
+Condo Apartment,9,2026,Toronto W09,8,3776800,472100,407400,21,44,0.96,64,38%,5.5
+Condo Apartment,9,2026,Toronto W10,10,4063500,406350,391000,37,86,0.97,51,27%,8.6
+Condo Apartment,9,2026,Toronto C01,196,128255776,654366,600000,663,1150,0.97,40,30%,5.87
+Condo Apartment,9,2026,Toronto C02,30,50722120,1690737,1237500,143,237,0.96,52,21%,7.9
+Condo Apartment,9,2026,Toronto C03,8,8064000,1008000,745000,61,84,0.96,39,13%,10.5
+Condo Apartment,9,2026,Toronto C04,13,13098418,1007571,705000,49,71,0.98,45,27%,5.46
+Condo Apartment,9,2026,Toronto C06,12,5730330,477528,486000,23,58,0.99,52,52%,4.83
+Condo Apartment,9,2026,Toronto C07,33,18217007,552031,543800,95,165,0.99,38,35%,5
+Condo Apartment,9,2026,Toronto C08,131,79650899,608022,537000,436,780,0.97,42,30%,5.95
+Condo Apartment,9,2026,Toronto C09,12,9218000,768167,744000,34,44,0.94,36,35%,3.67
+Condo Apartment,9,2026,Toronto C10,28,18085900,645925,641500,133,201,0.97,37,21%,7.18
+Condo Apartment,9,2026,Toronto C11,15,6677000,445133,416000,48,84,0.97,35,31%,5.6
+Condo Apartment,9,2026,Toronto C12,5,7221000,1444200,1125000,20,22,1.02,11,25%,4.4
+Condo Apartment,9,2026,Toronto C13,18,10079000,559944,488500,64,124,0.95,46,28%,6.89
+Condo Apartment,9,2026,Toronto C14,47,26280888,559168,530000,147,243,0.97,35,32%,5.17
+Condo Apartment,9,2026,Toronto C15,45,23872510,530500,476000,158,276,0.98,30,28%,6.13
+Condo Apartment,9,2026,Toronto E01,14,12991250,927946,795000,44,59,0.97,34,32%,4.21
+Condo Apartment,9,2026,Toronto E02,3,2177000,725667,712000,32,47,0.97,14,9%,15.67
+Condo Apartment,9,2026,Toronto E03,5,2368000,473600,410000,15,29,0.99,29,33%,5.8
+Condo Apartment,9,2026,Toronto E04,9,3500000,388889,360000,42,73,0.95,48,21%,8.11
+Condo Apartment,9,2026,Toronto E05,16,9589680,599355,586000,47,90,0.98,22,34%,5.62
+Condo Apartment,9,2026,Toronto E06,5,2495900,499180,525900,19,37,1.05,20,26%,7.4
+Condo Apartment,9,2026,Toronto E07,12,5053800,421150,415000,39,76,0.99,28,31%,6.33
+Condo Apartment,9,2026,Toronto E08,7,3466999,495286,445000,42,73,0.96,58,17%,10.43
+Condo Apartment,9,2026,Toronto E09,19,8515800,448200,458000,47,111,0.95,48,40%,5.84
+Condo Apartment,9,2026,Toronto E10,4,1381388,345347,341944,10,21,0.95,40,40%,5.25
+Condo Apartment,9,2026,Toronto E11,6,2255000,375833,345000,27,43,0.98,42,22%,7.17
+Link,9,2026,All TRREB Areas,40,35175976,879399,840000,88,133,0.98,28,45%,3.33
+Link,9,2026,Halton Region,3,2964000,988000,965000,13,16,0.98,23,23%,5.33
+Link,9,2026,Burlington,0,,,,4,4,,,,
+Link,9,2026,Halton Hills,0,,,,0,1,,,,
+Link,9,2026,Milton,1,965000,965000,965000,3,3,0.99,38,33%,3
+Link,9,2026,Oakville,2,1999000,999500,999500,6,8,0.98,16,33%,4
+Link,9,2026,Peel Region,2,1838800,919400,919400,11,20,0.98,13,18%,10
+Link,9,2026,Brampton,0,,,,5,9,,,,
+Link,9,2026,Caledon,1,850000,850000,850000,2,2,0.98,20,50%,2
+Link,9,2026,Mississauga,1,988800,988800,988800,4,9,0.99,6,25%,9
+Link,9,2026,City of Toronto,3,2425000,808333,830000,5,12,1.01,25,60%,4
+Link,9,2026,Toronto West,0,,,,0,1,,,,
+Link,9,2026,Toronto Central,0,,,,1,7,,,,
+Link,9,2026,Toronto East,3,2425000,808333,830000,4,4,1.01,25,75%,1.33
+Link,9,2026,York Region,16,16149376,1009336,1025000,29,40,0.97,38,55%,2.5
+Link,9,2026,Aurora,2,1985000,992500,992500,1,0,0.95,39,200%,
+Link,9,2026,East Gwillimbury,0,,,,0,0,,,,
+Link,9,2026,Georgina,1,670000,670000,670000,2,1,0.96,22,50%,1
+Link,9,2026,King,0,,,,2,2,,,,
+Link,9,2026,Markham,11,11656376,1059671,1088888,16,21,0.98,37,69%,1.91
+Link,9,2026,Newmarket,1,928000,928000,928000,1,0,1.03,7,100%,
+Link,9,2026,Richmond Hill,0,,,,4,5,,,,
+Link,9,2026,Stouffville,0,,,,0,3,,,,
+Link,9,2026,Vaughan,1,910000,910000,910000,3,8,0.86,92,33%,8
+Link,9,2026,Durham Region,11,8130000,739091,750000,22,30,0.99,21,50%,2.73
+Link,9,2026,Ajax,1,645000,645000,645000,2,5,0.99,16,50%,5
+Link,9,2026,Brock,0,,,,0,0,,,,
+Link,9,2026,Clarington,6,4285000,714167,715000,9,10,0.98,19,67%,1.67
+Link,9,2026,Oshawa,0,,,,2,3,,,,
+Link,9,2026,Pickering,1,825000,825000,825000,2,2,1.03,12,50%,2
+Link,9,2026,Scugog,0,,,,0,0,,,,
+Link,9,2026,Uxbridge,0,,,,0,1,,,,
+Link,9,2026,Whitby,3,2375000,791667,810000,7,9,0.99,30,43%,3
+Link,9,2026,Dufferin County,0,,,,2,2,,,,
+Link,9,2026,Orangeville,0,,,,2,2,,,,
+Link,9,2026,Simcoe County,5,3668800,733760,755000,6,13,0.97,26,83%,2.6
+Link,9,2026,Adjala-Tosorontio,0,,,,0,0,,,,
+Link,9,2026,Bradford,2,1586800,793400,793400,2,4,1,10,100%,2
+Link,9,2026,Essa,3,2082000,694000,742000,3,6,0.94,38,100%,2
+Link,9,2026,Innisfil,0,,,,0,1,,,,
+Link,9,2026,New Tecumseth,0,,,,1,2,,,,
+Link,9,2026,Toronto W01,0,,,,0,0,,,,
+Link,9,2026,Toronto W02,0,,,,0,0,,,,
+Link,9,2026,Toronto W03,0,,,,0,0,,,,
+Link,9,2026,Toronto W04,0,,,,0,0,,,,
+Link,9,2026,Toronto W05,0,,,,0,0,,,,
+Link,9,2026,Toronto W06,0,,,,0,0,,,,
+Link,9,2026,Toronto W07,0,,,,0,0,,,,
+Link,9,2026,Toronto W08,0,,,,0,0,,,,
+Link,9,2026,Toronto W09,0,,,,0,0,,,,
+Link,9,2026,Toronto W10,0,,,,0,1,,,,
+Link,9,2026,Toronto C01,0,,,,0,0,,,,
+Link,9,2026,Toronto C02,0,,,,0,0,,,,
+Link,9,2026,Toronto C03,0,,,,0,0,,,,
+Link,9,2026,Toronto C04,0,,,,0,0,,,,
+Link,9,2026,Toronto C06,0,,,,0,0,,,,
+Link,9,2026,Toronto C07,0,,,,0,0,,,,
+Link,9,2026,Toronto C08,0,,,,0,0,,,,
+Link,9,2026,Toronto C09,0,,,,0,0,,,,
+Link,9,2026,Toronto C10,0,,,,0,0,,,,
+Link,9,2026,Toronto C11,0,,,,0,0,,,,
+Link,9,2026,Toronto C12,0,,,,0,0,,,,
+Link,9,2026,Toronto C13,0,,,,0,0,,,,
+Link,9,2026,Toronto C14,0,,,,0,0,,,,
+Link,9,2026,Toronto C15,0,,,,1,7,,,,
+Link,9,2026,Toronto E01,0,,,,0,0,,,,
+Link,9,2026,Toronto E02,0,,,,0,0,,,,
+Link,9,2026,Toronto E03,0,,,,0,0,,,,
+Link,9,2026,Toronto E04,0,,,,0,0,,,,
+Link,9,2026,Toronto E05,1,950000,950000,950000,1,1,1.06,44,100%,1
+Link,9,2026,Toronto E06,0,,,,0,0,,,,
+Link,9,2026,Toronto E07,2,1475000,737500,737500,3,3,0.99,16,67%,1.5
+Link,9,2026,Toronto E08,0,,,,0,0,,,,
+Link,9,2026,Toronto E09,0,,,,0,0,,,,
+Link,9,2026,Toronto E10,0,,,,0,0,,,,
+Link,9,2026,Toronto E11,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,All TRREB Areas,5,2769000,553800,537000,41,58,0.97,73,12%,11.6
+Co-Op Apartment,9,2026,Halton Region,0,,,,5,7,,,,
+Co-Op Apartment,9,2026,Burlington,0,,,,4,4,,,,
+Co-Op Apartment,9,2026,Halton Hills,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Milton,0,,,,0,1,,,,
+Co-Op Apartment,9,2026,Oakville,0,,,,1,2,,,,
+Co-Op Apartment,9,2026,Peel Region,0,,,,1,2,,,,
+Co-Op Apartment,9,2026,Brampton,0,,,,1,1,,,,
+Co-Op Apartment,9,2026,Caledon,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Mississauga,0,,,,0,1,,,,
+Co-Op Apartment,9,2026,City of Toronto,4,2232000,558000,551000,30,43,0.97,68,13%,10.75
+Co-Op Apartment,9,2026,Toronto West,1,397000,397000,397000,13,17,0.94,92,8%,17
+Co-Op Apartment,9,2026,Toronto Central,1,895000,895000,895000,15,23,0.96,58,7%,23
+Co-Op Apartment,9,2026,Toronto East,2,940000,470000,470000,2,3,1,61,100%,1.5
+Co-Op Apartment,9,2026,York Region,0,,,,3,4,,,,
+Co-Op Apartment,9,2026,Aurora,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,East Gwillimbury,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Georgina,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,King,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Markham,0,,,,1,1,,,,
+Co-Op Apartment,9,2026,Newmarket,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Richmond Hill,0,,,,1,1,,,,
+Co-Op Apartment,9,2026,Stouffville,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Vaughan,0,,,,1,2,,,,
+Co-Op Apartment,9,2026,Durham Region,0,,,,1,1,,,,
+Co-Op Apartment,9,2026,Ajax,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Brock,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Clarington,0,,,,1,1,,,,
+Co-Op Apartment,9,2026,Oshawa,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Pickering,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Scugog,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Uxbridge,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Whitby,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Dufferin County,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Orangeville,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Simcoe County,1,537000,537000,537000,1,1,0.98,93,100%,1
+Co-Op Apartment,9,2026,Adjala-Tosorontio,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Bradford,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Essa,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Innisfil,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,New Tecumseth,1,537000,537000,537000,1,1,0.98,93,100%,1
+Co-Op Apartment,9,2026,Toronto W01,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto W02,0,,,,2,1,,,,
+Co-Op Apartment,9,2026,Toronto W03,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto W04,0,,,,1,1,,,,
+Co-Op Apartment,9,2026,Toronto W05,0,,,,1,1,,,,
+Co-Op Apartment,9,2026,Toronto W06,0,,,,4,6,,,,
+Co-Op Apartment,9,2026,Toronto W07,0,,,,1,2,,,,
+Co-Op Apartment,9,2026,Toronto W08,0,,,,3,3,,,,
+Co-Op Apartment,9,2026,Toronto W09,1,397000,397000,397000,1,3,0.94,92,100%,3
+Co-Op Apartment,9,2026,Toronto W10,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto C01,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto C02,0,,,,2,3,,,,
+Co-Op Apartment,9,2026,Toronto C03,0,,,,1,2,,,,
+Co-Op Apartment,9,2026,Toronto C04,0,,,,0,1,,,,
+Co-Op Apartment,9,2026,Toronto C06,0,,,,0,1,,,,
+Co-Op Apartment,9,2026,Toronto C07,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto C08,0,,,,1,2,,,,
+Co-Op Apartment,9,2026,Toronto C09,1,895000,895000,895000,10,12,0.96,58,10%,12
+Co-Op Apartment,9,2026,Toronto C10,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto C11,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto C12,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto C13,0,,,,1,1,,,,
+Co-Op Apartment,9,2026,Toronto C14,0,,,,0,1,,,,
+Co-Op Apartment,9,2026,Toronto C15,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto E01,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto E02,1,705000,705000,705000,1,1,1.01,43,100%,1
+Co-Op Apartment,9,2026,Toronto E03,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto E04,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto E05,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto E06,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto E07,0,,,,0,1,,,,
+Co-Op Apartment,9,2026,Toronto E08,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto E09,0,,,,0,0,,,,
+Co-Op Apartment,9,2026,Toronto E10,1,235000,235000,235000,1,1,0.98,78,100%,1
+Co-Op Apartment,9,2026,Toronto E11,0,,,,0,0,,,,
+Detached Condo,9,2026,All TRREB Areas,12,10007500,833958,795000,21,42,0.96,70,57%,3.5
+Detached Condo,9,2026,Halton Region,2,2060000,1030000,1030000,2,5,0.98,62,100%,2.5
+Detached Condo,9,2026,Burlington,2,2060000,1030000,1030000,1,4,0.98,62,200%,2
+Detached Condo,9,2026,Halton Hills,0,,,,0,0,,,,
+Detached Condo,9,2026,Milton,0,,,,1,1,,,,
+Detached Condo,9,2026,Oakville,0,,,,0,0,,,,
+Detached Condo,9,2026,Peel Region,4,3035000,758750,675000,6,11,0.95,65,67%,2.75
+Detached Condo,9,2026,Brampton,0,,,,3,6,,,,
+Detached Condo,9,2026,Caledon,1,1100000,1100000,1100000,0,0,0.92,73,,
+Detached Condo,9,2026,Mississauga,3,1935000,645000,610000,3,5,0.97,62,100%,1.67
+Detached Condo,9,2026,City of Toronto,0,,,,3,4,,,,
+Detached Condo,9,2026,Toronto West,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto Central,0,,,,1,1,,,,
+Detached Condo,9,2026,Toronto East,0,,,,2,3,,,,
+Detached Condo,9,2026,York Region,0,,,,3,3,,,,
+Detached Condo,9,2026,Aurora,0,,,,0,0,,,,
+Detached Condo,9,2026,East Gwillimbury,0,,,,0,0,,,,
+Detached Condo,9,2026,Georgina,0,,,,0,0,,,,
+Detached Condo,9,2026,King,0,,,,0,0,,,,
+Detached Condo,9,2026,Markham,0,,,,2,2,,,,
+Detached Condo,9,2026,Newmarket,0,,,,0,0,,,,
+Detached Condo,9,2026,Richmond Hill,0,,,,1,1,,,,
+Detached Condo,9,2026,Stouffville,0,,,,0,0,,,,
+Detached Condo,9,2026,Vaughan,0,,,,0,0,,,,
+Detached Condo,9,2026,Durham Region,0,,,,0,0,,,,
+Detached Condo,9,2026,Ajax,0,,,,0,0,,,,
+Detached Condo,9,2026,Brock,0,,,,0,0,,,,
+Detached Condo,9,2026,Clarington,0,,,,0,0,,,,
+Detached Condo,9,2026,Oshawa,0,,,,0,0,,,,
+Detached Condo,9,2026,Pickering,0,,,,0,0,,,,
+Detached Condo,9,2026,Scugog,0,,,,0,0,,,,
+Detached Condo,9,2026,Uxbridge,0,,,,0,0,,,,
+Detached Condo,9,2026,Whitby,0,,,,0,0,,,,
+Detached Condo,9,2026,Dufferin County,0,,,,0,0,,,,
+Detached Condo,9,2026,Orangeville,0,,,,0,0,,,,
+Detached Condo,9,2026,Simcoe County,6,4912500,818750,755000,7,19,0.96,76,86%,3.17
+Detached Condo,9,2026,Adjala-Tosorontio,0,,,,0,0,,,,
+Detached Condo,9,2026,Bradford,0,,,,0,0,,,,
+Detached Condo,9,2026,Essa,0,,,,0,0,,,,
+Detached Condo,9,2026,Innisfil,0,,,,0,0,,,,
+Detached Condo,9,2026,New Tecumseth,6,4912500,818750,755000,7,19,0.96,76,86%,3.17
+Detached Condo,9,2026,Toronto W01,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W02,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W03,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W04,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W05,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W06,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W07,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W08,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W09,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto W10,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C01,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C02,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C03,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C04,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C06,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C07,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C08,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C09,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C10,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C11,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C12,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C13,0,,,,1,1,,,,
+Detached Condo,9,2026,Toronto C14,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto C15,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E01,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E02,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E03,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E04,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E05,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E06,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E07,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E08,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E09,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E10,0,,,,0,0,,,,
+Detached Condo,9,2026,Toronto E11,0,,,,2,3,,,,
+Co-Ownership Apartment,9,2026,All TRREB Areas,6,3337518,556253,543750,9,20,0.95,47,67%,3.33
+Co-Ownership Apartment,9,2026,Halton Region,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Burlington,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Halton Hills,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Milton,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Oakville,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Peel Region,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Brampton,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Caledon,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Mississauga,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,City of Toronto,6,3337518,556253,543750,9,20,0.95,47,67%,3.33
+Co-Ownership Apartment,9,2026,Toronto West,0,,,,1,1,,,,
+Co-Ownership Apartment,9,2026,Toronto Central,6,3337518,556253,543750,6,17,0.95,47,100%,2.83
+Co-Ownership Apartment,9,2026,Toronto East,0,,,,2,2,,,,
+Co-Ownership Apartment,9,2026,York Region,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Aurora,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,East Gwillimbury,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Georgina,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,King,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Markham,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Newmarket,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Richmond Hill,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Stouffville,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Vaughan,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Durham Region,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Ajax,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Brock,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Clarington,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Oshawa,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Pickering,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Scugog,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Uxbridge,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Whitby,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Dufferin County,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Orangeville,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Simcoe County,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Adjala-Tosorontio,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Bradford,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Essa,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Innisfil,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,New Tecumseth,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W01,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W02,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W03,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W04,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W05,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W06,0,,,,1,1,,,,
+Co-Ownership Apartment,9,2026,Toronto W07,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W08,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W09,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto W10,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto C01,0,,,,1,1,,,,
+Co-Ownership Apartment,9,2026,Toronto C02,2,1060000,530000,530000,0,0,0.97,59,,
+Co-Ownership Apartment,9,2026,Toronto C03,4,2277518,569380,543750,2,5,0.94,42,200%,1.25
+Co-Ownership Apartment,9,2026,Toronto C04,0,,,,1,3,,,,
+Co-Ownership Apartment,9,2026,Toronto C06,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto C07,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto C08,0,,,,1,1,,,,
+Co-Ownership Apartment,9,2026,Toronto C09,0,,,,1,2,,,,
+Co-Ownership Apartment,9,2026,Toronto C10,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto C11,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto C12,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto C13,0,,,,0,1,,,,
+Co-Ownership Apartment,9,2026,Toronto C14,0,,,,0,4,,,,
+Co-Ownership Apartment,9,2026,Toronto C15,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E01,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E02,0,,,,2,2,,,,
+Co-Ownership Apartment,9,2026,Toronto E03,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E04,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E05,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E06,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E07,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E08,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E09,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E10,0,,,,0,0,,,,
+Co-Ownership Apartment,9,2026,Toronto E11,0,,,,0,0,,,,
